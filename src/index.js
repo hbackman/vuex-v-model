@@ -1,4 +1,8 @@
-import './helpers'
+import {
+  isValidMap,
+  normalizeMap,
+  normalizeNamespace,
+} from './helpers';
 
 const getVuexModule = function (store, namespace) {
   const module = store._modulesNamespaceMap[namespace];

@@ -1,11 +1,11 @@
 const isArray  = (v) => Array.isArray(v);
 const isObject = (v) => (v !== null && typeof v === 'object');
 
-const isValidMap = function (map) {
+export const isValidMap = function (map) {
   return isArray(map) || isObject(map);
 };
 
-const normalizeMap = function (map) {
+export const normalizeMap = function (map) {
   if (! isValidMap(map))
     return [];
 
@@ -23,7 +23,7 @@ const normalizeMap = function (map) {
   }
 };
 
-const normalizeNamespace = function (fn) {
+export const normalizeNamespace = function (fn) {
   return function (namespace, map) {
     if (typeof namespace !== 'string') {
       map = namespace;
