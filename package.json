@@ -12,5 +12,8 @@
     "v-model"
   ],
   "author": "Hampus Backman <hampus@hbackman.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
 }
