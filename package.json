@@ -1,0 +1,16 @@
+{
+  "name": "vuex-v-model",
+  "version": "1.0.0",
+  "description": "Enable v-model for Vuex state",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "v-model"
+  ],
+  "author": "Hampus Backman <hampus@hbackman.com>",
+  "license": "MIT"
+}
