@@ -2,7 +2,9 @@
 vuex-v-model is a library that enables two-way data binding using the Vue v-model directive.
 
 ## Install
-TODO
+```
+npm install vuex-v-model
+```
 
 ## Usage
 The most basic usage is as simple as providing the fields you want to v-model through `mapModels`. This function accepts the same function parameters as `mapState`.
