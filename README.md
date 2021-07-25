@@ -1,4 +1,8 @@
 # vuex-v-model
+[![Build Status](https://github.com/hbackman/vuex-v-model/actions/workflows/node.js.yml/badge.svg)](https://github.com/hbackman/vuex-v-model/actions/workflows/node.js.yml)
+[![Donate Ko-Fi](https://img.shields.io/badge/donate-ko--fi-blue.svg)](https://ko-fi.com/hbackman)
+[![GitHub stars](https://img.shields.io/github/stars/hbackman/vuex-v-model.svg?style=social&label=Star)](https://github.com/hbackman/vuex-map-fields)
+
 vuex-v-model is a library that enables two-way data binding using the Vue v-model directive.
 
 ## Install
