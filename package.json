@@ -1,6 +1,6 @@
 {
   "name": "vuex-v-model",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Enable v-model for Vuex state",
   "author": "Hampus Backman <hampus@hbackman.com>",
   "homepage": "https://github.com/hbackman/vuex-v-model",
